@@ -24,5 +24,6 @@ Steam:							http://steamcommunity.com/id/Ash_Marks/
 CHANGELOG
 ---------
 
+1.2 - Added HudJetpackFuelBar
 1.1 - Moved HudChat up to prevent spectator black bar blocking
 1.0 - Release
