@@ -417,6 +417,32 @@
 
 	}
 	
+	HudJetpackFuelBar
+	{
+		"fieldName"		"HudJetpackFuelBar"
+		
+		"visible"		"1"
+		"enabled"		"1"
+
+		"xpos"			"c-65"
+		"ypos"			"c170"
+		"wide"			"853"
+		"tall"			"100"
+
+		"text1_xpos"		"34"
+		"text1_ypos"		"12"
+		
+		"image1_xpos"		"0"
+		"image1_ypos"		"0"
+		
+		"bar_width"			"130"
+		"bar_height"		"10"
+
+		"TextFont"		"HUD_TextSmall"
+		"TextColor"		"HUD_Tone_Default" //overridden by teamcolor of disguise
+		
+	}
+	
 	HudCellCount
 	{
 		"fieldName"		"HudCellCount"
