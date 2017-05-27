@@ -3,6 +3,9 @@ INTRODUCTION
 
 Thank you for downloading my hud! This hud changes the standard Fortress Forever in-game UI to fit the more practical, minimalistic, and/or competitive player. All in-game onscreen elements have been stripped of their large backgrounds. Number values for health, armor, ammo, and grenades have been moved to the bottom-center of the screen, and have been simplified into plain white text with a black outline to ensure clarity. Other minor changes include the removal of some unneeded icons, font changes, and other hud element movements.
 
+This Release enlarge scores, killfeed, game timer, and shrinks map name.
+It also changes HudChat to work for 16:10 resolutions.
+
 INSTALLATION
 ------------
 
@@ -24,6 +27,7 @@ Steam:							http://steamcommunity.com/id/Ash_Marks/
 CHANGELOG
 ---------
 
+assisted viewing - 
 1.2 - Added HudJetpackFuelBar
 1.1 - Moved HudChat up to prevent spectator black bar blocking
 1.0 - Release
