@@ -316,7 +316,7 @@ Scheme
 			"2"
 			{
 				"name"		"Open Sans"
-				"tall"		"12"
+				"tall"		"24"
 				"weight"	"700"
 				"antialias" 	"1"
 				"yres"		"600 767"
@@ -593,7 +593,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Arial"
+				"name"		"Open Sans"
 				"tall"		"12"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"0"
@@ -651,7 +651,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Arial"
+				"name"		"Open Sans"
 				"tall"		"12"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"0"
@@ -712,7 +712,7 @@ Scheme
 			}
 			"7"
 			{
-				"name"		"Arial"
+				"name"		"Open Sans"
 				"tall"		"11"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"0"
@@ -899,7 +899,7 @@ Scheme
 			"1"
 			{
 				"name"		"Open Sans Bold"
-				"tall"		"15"
+				"tall"		"20"
 				"weight"	"0"
 				"antialias" 	"1"
 				"additive"	"0"
@@ -1444,11 +1444,33 @@ Scheme
 			"1"
 			{
 				"name"		"Open Sans"
-				"tall"		"13"
+				"tall"		"20"
 				"antialias" 	"1"
 				"additive"	"0"
 			}
 		}	
+		"HUD_TextRoundMapName"
+		{
+			"1"
+			{
+				"name"		"Open Sans"
+				"tall"		"12"
+				"antialias" 	"1"
+				"additive"	"0"
+			}
+		}	
+		"HUD_DeathNoticeText"
+		{
+			"1"
+			{
+				"name"		"Open Sans Extrabold"
+				"weight"	"600"
+				"tall"		"16"
+				"antialias" 	"1"
+				"additive"	"0"
+				"outline"	"1"
+			}
+		}
 		"WeaponIcons"
 		{
 			"1"
@@ -2758,11 +2780,8 @@ Scheme
 		"4"		"resource/Crosshairs.ttf"
 		"5"		"resource/HALFLIFE2.ttf"
 		"6"		"resource/HL2crosshairs.ttf"
-		"7"		"resource/HUDfont.ttf"
-		"8"		"resource/HUDfont_caps.ttf"
-		"9"		"resource/fonts/OpenSans-Regular.ttf"
-		"10"	"resource/fonts/OpenSans-Semibold.ttf"
-		"11"	"resource/fonts/OpenSans-Bold.ttf"
-		"12"	"resource/fonts/Thunder Lord.ttf"
+		"7"		"resource/fonts/OpenSans-Regular.ttf"
+		"8"	"resource/fonts/OpenSans-Semibold.ttf"
+		"9"	"resource/fonts/OpenSans-Bold.ttf"
 	}
 }

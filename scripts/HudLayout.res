@@ -289,17 +289,17 @@
 		"tall"			"128" //128
 		
 	
-		"MapNameFont"		"HUD_TextRoundInfo"
+		"MapNameFont"		"HUD_TextRoundMapName"
 		"MapNameColor"		"HUD_Tone_Default"
 		"MapNameX"		"32" //32
-		"MapNameY"		"3"
+		"MapNameY"		"0"
 		//"center_x"		"1"		// center text horizontally
 		//"RightJustify"		"1"
 
 		"TimerFont"		"HUD_TextRoundInfo"
 		"TimerColor"		"HUD_Tone_Default"
 		"TimerX"		"43" //45
-		"TimerY"		"18"
+		"TimerY"		"10"
 		
 	}
 	
@@ -899,7 +899,7 @@
 		"LineHeight"	  "22"
 		"RightJustify"	  "1"
 
-		"TextFont"	"Default"
+		"TextFont"	"HUD_DeathNoticeText"
 	}
 
 	HudVehicle
@@ -986,7 +986,7 @@
 		"enabled" "1"
 		"xpos"	"10"
 		"ypos"	"227"
-		"wide"	 "257"
+		"wide"	 "224"
 		"tall"	 "200"
 	}
 
