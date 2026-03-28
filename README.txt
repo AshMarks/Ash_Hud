@@ -16,8 +16,8 @@ GitHub Repository:				https://github.com/AshMarks/Ash_Hud
 Fortress Forever Forum Page:	http://forums.fortress-forever.com/showthread.php?t=25222
 
 My Personal Links:
-Carrd:              https://ashe-goto.carrd.co/
-Steam:							https://steamcommunity.com/id/Ashe_Goto/
+Carrd:    https://ashe-goto.carrd.co/
+Steam:    https://steamcommunity.com/id/Ashe_Goto/
 
 CHANGELOG
 ---------
